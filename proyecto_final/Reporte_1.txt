@@ -1,0 +1,59 @@
+======================================================================
+       REPORTE DEL SISTEMA DE TENSIONES
+======================================================================
+
+ID Registro: 1
+Proyecto: pruebapdf
+Descripción: aaaa
+Peso: 15.00 kg
+Posición: (0.00, 0.00, 0.00)
+Número de cuerdas: 3
+Resultado: NO VIABLE
+Factor de Seguridad: 1.02
+Viable: NO
+Fecha: 2026-08-02 17:09:41
+Empleado: Juan Cruz Rodriguez
+
+======================================================================
+CUERDAS
+======================================================================
+
+Cuerda 1
+Nombre: Cuerda 1
+Material: Hilo de algodón
+Longitud: 1.730 m
+Ángulo X: 54.74°
+Ángulo Y: 54.74°
+Ángulo Z: 54.74°
+Tensión: 49.05 N
+Resistencia: 50.00 N
+Factor de Seguridad: 1.02
+Estado: NO VIABLE
+
+Cuerda 2
+Nombre: Cuerda 2
+Material: Cuerda de yute
+Longitud: 3.460 m
+Ángulo X: 54.74°
+Ángulo Y: 54.74°
+Ángulo Z: 54.74°
+Tensión: 49.05 N
+Resistencia: 100.00 N
+Factor de Seguridad: 2.04
+Estado: NO VIABLE
+
+Cuerda 3
+Nombre: Cuerda 3
+Material: Nylon trenzado ligero
+Longitud: 5.200 m
+Ángulo X: 54.74°
+Ángulo Y: 54.74°
+Ángulo Z: 54.74°
+Tensión: 49.05 N
+Resistencia: 150.00 N
+Factor de Seguridad: 3.06
+Estado: CORRECTO
+
+======================================================================
+FIN DEL REPORTE
+======================================================================
